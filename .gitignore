@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data excluded from online GitHub, but keep the .gitkeep file to ensure the directory is tracked
+data/*
+!data/.gitkeep
